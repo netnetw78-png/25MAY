@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play.zevorixsmp.vampirehost.qzz.io",
-    "port": 10630,
+    "ip": "zevorixnetwork.aternos.me",
+    "port": 40030,
     "version": "1.20.1",
     "try-creative": false
   },
